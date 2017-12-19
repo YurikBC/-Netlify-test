@@ -6,7 +6,7 @@
         nuxt-test
       </h1>
       <h2 class="subtitle">
-        Yuriy Mazafaka project
+        Yuriy Mazafaka project change
       </h2>
     </div>
   </section>
